@@ -54,6 +54,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [Tensorflow](https://www.tensorflow.org/)
 * [Keras](https://keras.io/)
+* [scikit-learn](https://scikit-learn.org/stable/)
 * [Numpy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [Python](https://www.python.org/)
