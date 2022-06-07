@@ -2,14 +2,11 @@
 Credit Card Fraud Detection - Dealing with Imbalanced Datasets
 <div id="top"></div>
 
-[![LinkedIn](https://www.linkedin.com/in/do%C4%9Fukan-uykun-ba0a24200/)]
-
 <br />
-
 
 <p>Error: The neural net predictions function is using shallow_nn everytime instead of the model passed in, sorry about that! This changes the results a bit, but the main point is choosing and creating a model, which this doesn't impact.</p>
 
-  <br />
+<br />
   
 <p> The Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud </p> 
 
@@ -30,11 +27,8 @@ Credit Card Fraud Detection - Dealing with Imbalanced Datasets
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -64,19 +58,13 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [Tensorflow](https://nextjs.org/)
-* [Keras](https://reactjs.org/)
-* [Python](https://vuejs.org/)
+* [Tensorflow](https://www.tensorflow.org/)
+* [Keras](https://keras.io/)
+* [Numpy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Python](https://www.python.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
@@ -143,11 +131,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Instagram](https://www.instagram.com/dogukannykn/) - uykundogukan@gmail.com
+[Mail](uykundogukan@gmail.com)
 
 Project Link: [Link](https://github.com/your_username/Credit-Card-Fraud-Detection)
 
