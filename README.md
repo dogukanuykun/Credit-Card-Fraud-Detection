@@ -52,7 +52,6 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
@@ -64,7 +63,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Pandas](https://pandas.pydata.org/)
 * [Python](https://www.python.org/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Prerequisites
 
@@ -103,10 +101,6 @@ This is an example of how to list things you need to use the software and how to
 3. Download the [Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 4. Copy your API in the same folder as your .ipynb notebook
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -124,9 +118,6 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- CONTACT -->
 ## Contact
