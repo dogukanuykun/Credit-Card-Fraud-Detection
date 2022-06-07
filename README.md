@@ -116,9 +116,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/...`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## License
@@ -131,8 +128,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[Mail](uykundogukan@gmail.com)
+Mail: uykundogukan@gmail.com
 
-Project Link: [Link](https://github.com/your_username/Credit-Card-Fraud-Detection)
+Project Link: [Link](https://github.com/dogukanuykun/Credit-Card-Fraud-Detection)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
