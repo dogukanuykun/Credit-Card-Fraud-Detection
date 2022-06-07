@@ -8,7 +8,7 @@ Credit Card Fraud Detection - Dealing with Imbalanced Datasets
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/do%C4%9Fukan-uykun-ba0a24200/)]
+[![LinkedIn][linkedin-shield]][[https://www.linkedin.com/in/do%C4%9Fukan-uykun-ba0a24200/]]
 
 
 <!-- PROJECT LOGO -->
