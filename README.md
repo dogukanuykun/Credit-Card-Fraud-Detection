@@ -2,7 +2,7 @@
 Credit Card Fraud Detection - Dealing with Imbalanced Datasets
 <div id="top"></div>
 
-[[LinkedIn][linkedin-shield]][[https://www.linkedin.com/in/do%C4%9Fukan-uykun-ba0a24200/]]
+[![LinkedIn](https://www.linkedin.com/in/do%C4%9Fukan-uykun-ba0a24200/)]
 
 <br />
 
