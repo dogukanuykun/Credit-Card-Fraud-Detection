@@ -50,8 +50,6 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [Tensorflow](https://www.tensorflow.org/)
 * [Keras](https://keras.io/)
 * [scikit-learn](https://scikit-learn.org/stable/)
@@ -62,7 +60,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * Tensorflow
   ```sh
   pip install tensorflow
